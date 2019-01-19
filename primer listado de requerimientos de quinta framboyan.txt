@@ -1,0 +1,8 @@
+proyecto quinta framboyan funciones principales:
+
+1.- reservaciones por día, fecha de entrada y fecha de
+salida(forzoso mayor a la fecha de entrada?)
+
+2.- pago tarjeta y pay pal
+
+3.- contactar con admin.
